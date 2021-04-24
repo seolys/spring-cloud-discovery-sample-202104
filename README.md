@@ -1,3 +1,1 @@
-# Spring Cloud Section 1.
-https://inf.run/THxm
-
+Chapter2. Service Discovery - https://inf.run/THxm
